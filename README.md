@@ -1,6 +1,6 @@
 # Git Workflow
 
-Simple overview of use/purpose.
+Learning Git + friend 
 
 ## Description
 
